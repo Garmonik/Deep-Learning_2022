@@ -38,7 +38,7 @@
 ## Вопрос 5 ##
 Умножьте матрицы (A⋅BA⋅B) вручную (матричным произведением):
 
-![picture alt](https://user-images.githubusercontent.com/70436486/140959445-cb548837-af41-4131-8ffe-287cb1873999.png)
+![picture alt](![изображение](https://user-images.githubusercontent.com/70436486/204647344-8be3354b-3d8e-4359-b6f7-952f2372016b.png))
 
 У получившейся матрицы посчитайте сумму элементов. Чему она равна?
 
